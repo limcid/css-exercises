@@ -13,8 +13,18 @@ As with the last example, this one needs to be flexible in the middle, with item
 
 ![gif](./desired-outcome.gif)
 
+===========================
+Not everything but the containers that contain the things you want to move
+[8:32 PM]
+For that exercise you only need one header, and you cloud use a left-margin auto, on the notification div
+[8:32 PM]
+So it gets push to the right
+[8:33 PM]
+You can do that with te example that one of the links at the end of "alligment" lesson gives you
+===========================
+
 ### Self Check
-- Everything is centered vertically inside the header.
+^ Everything is centered vertically inside the header.
 - There is 8px space between everything and the edge of the header.
 - Items are arranged horizontally as seen in the outcome image.
 - There is 16px between each item on both sides of the header.
